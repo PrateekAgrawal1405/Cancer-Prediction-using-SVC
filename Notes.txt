@@ -1,0 +1,14 @@
+SVM is a supervised algo that classifies cases by finding a separator.
+
+1. Mapping data to a high-dimensional feature space
+2. Finding a separator
+
+Mapping data to a higher dimensional vector space is known as kernelling :
+
+a. Linear
+b. Polynomial
+c. RBF : Radio basis Function
+d. Sigmoid
+
+We find a hyper plane with the maximum distance from the support vectors
+
